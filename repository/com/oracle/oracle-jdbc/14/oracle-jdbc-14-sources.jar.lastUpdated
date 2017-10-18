@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Dec 29 12:01:34 CST 2015
+default-http\://www.repo.s/mvn/repo/.lastUpdated=1451361694591
+http\://www.repo.s/mvn/repo/.error=Could not transfer artifact com.oracle\:oracle-jdbc\:jar\:sources\:14 from/to synway-mvn-repo (http\://www.repo.s/mvn/repo)\: null to http\://www.repo.s/mvn/repo/com/oracle/oracle-jdbc/14/oracle-jdbc-14-sources.jar

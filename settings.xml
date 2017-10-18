@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.1.0 http://maven.apache.org/xsd/settings-1.1.0.xsd" xmlns="http://maven.apache.org/SETTINGS/1.1.0" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <!-- localRepository
+   | The path to the local repository maven will use to store artifacts.
+   |
+   | Default: ${user.home}/.m2/repository  -->
+  <localRepository>/work/mavenSpace/repository</localRepository>
+  <servers>
+    <server>
+      <id>smr</id>
+      <username>myf@five.net</username>
+      <password>12345</password>
+    </server>
+  </servers>
+
+  <mirrors>
+    <mirror>
+      <id>mark-mvn-repo</id>
+      <name>The internal Maven Repo of Mark</name>
+      <!--<url>http://www.sonatype.org/nexus/</url>-->
+      <url>http://repo1.maven.org/maven2/</url>
+     <!--<url>http://mvnrepository.com/</url>-->
+      <!--<url>http://repo.spring.io/libs-snapshot</url>-->
+      <mirrorOf>*</mirrorOf>
+    </mirror>
+  </mirrors> 
+</settings>

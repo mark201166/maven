@@ -1,0 +1,77 @@
+<html>
+
+<head></head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta id="viewport" name="viewport" content="target-densitydpi=device-dpi,width=480px,user-scalable=no">
+<title>浙江警察学院</title>
+<!--Dr.COMWebLoginID_0.htm-->
+<script language="javascript1.5" type="text/javascript" src="a41.js"></script>
+<script type="text/javascript">
+sv=0;sv1=0;v6='http://[::]:9002/v6                                     ';myv6ip='                                       ';v4serip='192.168.2.27'   ;m46=0;v46ip='192.168.30.108'                         ;
+mip=192168030108;Gno=0000;vlanid="0"   ;AC="";                          ipm="c0a8021b";ss1="000d4809688d";ss2="0000";ss3="c0a81e6c";ss4="000000000000";
+v46ip="192.168.30.108"   ;
+
+if((navigator.userAgent.indexOf('Mobile') > 0) )  
+location.href="a30.htm"
+
+urlpath="http://192.168.100.17:8080";
+url1=urlpath+"?wlanacname=2166&mac="+ss4+"&rid="+ipm+"&vlanid="+vlanid+"&rid1="+ss1+"&session="+ss3+"-"+ss4+"-"+ss2;
+</script>
+
+<style><!--
+a {text-decoration: none;}
+body {margin:0; padding:0; text-align:center;background: #ffffff url('a05.jpg') repeat-x left top !important; }
+.font1 {font-family:微软雅黑; font-size:15px; line-height: 18px; color:#000000;}
+.con {width:1000px; height:493px; margin-right: auto; margin-left: auto;}
+.main {background-image: url('a01.jpg'); background-repeat: no-repeat; float: left;width:1000px; height:493px}
+.main .login {float: left; height:180px; width:340px; margin-top:205px; margin-left:530px; font-family:微软雅黑; font-size: 16px; line-height: 24px;}
+.btn {BORDER: 1px #C54600 solid; background:#4FA7E7; height:30px; width:82px; font-family:微软雅黑; border:none; font-size:16px; color:#fff;}
+.input{border:1px solid #D7D7D7; font-family: 微软雅黑; width:180px; line-height:30px; font-size:16px; height:28px;}
+--></style>
+
+<body onselectstart="return false" onload="document.forms[0].DDDDD.value=getCookie('myusername');var pwd = getCookie('pwd');
+if (pwd != ''){
+  document.forms[0].upass.value = pwd;
+  document.forms[0].save_me.checked = true;
+}">
+
+<div class="con"> 
+<div class="main">
+<div class="login">
+<table border="0" cellspacing="1" cellpadding="0" class="font1" width="100%">
+<form name="form1" method="post" action="" onSubmit="return ee()">
+	<tr>
+		<td height="38" width="37%" align="center">
+		　</td>
+		<td height="38" width="62%" align="left">
+		<input id="username" type="text" id="userphone" name="DDDDD" class="input"  maxlength="26" /></td>
+	</tr>
+	<tr>
+		<td height="38" width="37%" align="center">
+		　</td>
+		<td height="38" width="62%" align="left">
+		<input id="password" type="password" id="password" name="upass" class="input" /></td>
+	</tr>
+	<tr>
+		<td height="50" width="37%">
+		<p align="center">
+		<input type="checkbox" value="1" name="save_me">记住密码
+		　</td>
+		<td height="50" width="62%" align="left">
+		<input id="submit" type="submit" name="0MKKey" value="登 录" class="btn" onclick="Clicked();">　<input type="reset" name="" value="重 置" class="btn"></td>
+	</tr>
+	<tr>
+		<td height="55" width="37%" align="left">
+		　</td>
+		<td height="55" width="62%" align="left">
+		<p><a href="http://192.168.100.17:8080/Self/client/drcomclient.zip">PC客户端下载</a></td>
+	</tr>
+	</form>
+</table>
+</div>
+</div>
+</div>
+
+</body>
+</html>
